@@ -1,2 +1,2 @@
-# exercicios-lp1-02
-Exercícios de LP1 referentes ao Slide 02.
+# Exercícios LP1
+Exercícios referentes ao Slide 02.
