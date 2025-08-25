@@ -9,7 +9,7 @@ int main(void){
 
    while(num != 0){
        soma = soma + num;
-       printf("Digite um número: ");
+       printf("Digite um número (digite 0 para parar): ");
        scanf("%d", &num);
    }
    printf("Soma dos números: %d", soma);
